@@ -1,0 +1,15 @@
+C:\Users\elnurza\source\repos\Havali103\Havali103\bin\Debug\net6.0\Havali103.exe
+C:\Users\elnurza\source\repos\Havali103\Havali103\bin\Debug\net6.0\Havali103.deps.json
+C:\Users\elnurza\source\repos\Havali103\Havali103\bin\Debug\net6.0\Havali103.runtimeconfig.json
+C:\Users\elnurza\source\repos\Havali103\Havali103\bin\Debug\net6.0\Havali103.dll
+C:\Users\elnurza\source\repos\Havali103\Havali103\bin\Debug\net6.0\Havali103.pdb
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.csproj.AssemblyReference.cache
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.AssemblyInfoInputs.cache
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.AssemblyInfo.cs
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.csproj.CoreCompileInputs.cache
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.dll
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\refint\Havali103.dll
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.pdb
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\Havali103.genruntimeconfig.cache
+C:\Users\elnurza\source\repos\Havali103\Havali103\obj\Debug\net6.0\ref\Havali103.dll
